@@ -1,0 +1,26 @@
+body{
+    width: 960px;
+    margin: auto;
+   
+   
+    
+}
+
+header * {
+  
+    display: inline;
+    
+}
+
+header img  {
+margin-top: 27.5px;
+}
+
+header nav {
+float: right;
+margin-top: 15px;
+}
+
+hr {
+border: 10px dashed 
+}
